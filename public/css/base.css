@@ -1,12 +1,12 @@
 :root{
-  --bg:#0b0b0b;
-  --panel:#101010;
+  --bg:#0f13f3;
+  --panel:#e71d1d;
   --text:#eaeaea;
-  --muted:rgba(255,255,255,.62);
+  --muted:rgba(126, 224, 28, 0.876);
   --line:rgba(255,255,255,.10);
 
   --radius:22px;
-  --shadow: 0 0 0 1px rgba(255,255,255,.06), 0 18px 60px rgba(0,0,0,.55);
+  --shadow: 0 0 0 1px rgba(131, 231, 88, 0.698), 0 18px 60px rgb(64, 206, 171);
 }
 
 *{box-sizing:border-box}
